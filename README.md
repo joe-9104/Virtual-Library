@@ -48,6 +48,6 @@ The application interacts with a database that consists of the following main ta
    ```
 2. **Set up the database**: Create the required tables as described in the database structure section
 3. **Run the application**: To run the project from the command line, go to the dist folder and type the following:
-  ```bash
-  java -jar "Gestion_biblio.jar"
-  ```
+    ```bash
+    java -jar "Gestion_biblio.jar"
+    ```
